@@ -1,1 +1,1 @@
-echo "hello swagat shankar atigre"
+echo "hello swagat atigre"
